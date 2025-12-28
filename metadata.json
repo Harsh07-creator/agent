@@ -1,0 +1,5 @@
+{
+  "name": "InsightHub AI",
+  "description": "A comprehensive AI-driven research dashboard for market analysis, product comparison, and sentiment tracking with deep Gemini API integration.",
+  "requestFramePermissions": []
+}
